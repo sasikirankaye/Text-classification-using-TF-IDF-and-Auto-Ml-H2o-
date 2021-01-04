@@ -41,5 +41,3 @@ The challenges faced in the project are imbalancing of the classes which was sol
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
-- etc. (be as specific as possible)
-
